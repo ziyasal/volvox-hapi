@@ -3,7 +3,7 @@
 
 Hapi.js provider for volvox.js Microservice framework
 
-[![Build Status](https://travis-ci.org/microphonejs/microphone-hapi.svg?branch=master)](https://travis-ci.org/microphonejs/microphone-hapi) [![Coverage Status](https://coveralls.io/repos/github/microphonejs/microphone-hapi/badge.svg?branch=master)](https://coveralls.io/github/microphonejs/microphone-hapi?branch=master)
+[![Build Status](https://travis-ci.org/volvoxjs/volvox-hapi.svg?branch=master)](https://travis-ci.org/volvoxjs/volvox-hapi) [![Coverage Status](https://coveralls.io/repos/github/volvoxjs/volvox-hapi/badge.svg?branch=master)](https://coveralls.io/github/volvoxjs/volvox-hapi?branch=master)
 
 Preview
 =================
